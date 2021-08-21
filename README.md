@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  <img alt="ReactNative" height="30"src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Node" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
   ##
