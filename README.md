@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 
 <h2><samp>💻 Technologies</samp></h2>
 <p style="padding: 0px 20px">
+  <img alt="kt" src="https://img.shields.io/badge/Kotlin-5C2D91?style=for-the-badge&logo=kotlin&logoColor=orange">
+  <img alt="java" src="https://img.shields.io/badge/Java-5C2D91?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="sb" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img alt="Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Js" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
